@@ -4,8 +4,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ankit_tanwar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akashvinchankar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ankit-tanwar1503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-vinchankar" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzBWdtPWSPNNLxznTkDqkNvxCnpcfRFppPcFKjJbSVnmgpJsBwxCpjlPshCGwFdZHhBSCpr" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Ankit-Tanwar03" height="30" width="35" /></a>&nbsp
+<a href="https://twitter.com/ankit_tanwar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ankit-Tanwar03" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankit-tanwar1503/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ankit-tanwar03" height="30" width="35" /></a>
+
 </p>
 
 ### Languages and Tools:
@@ -29,7 +31,7 @@
 - 🧐 I'm passionate about new technologies. 😎
 - 🔭 I’m currently looking to collaborate to enhance my skills further. 💻
 - 🥅 2024 Goals: To connect with as many people as I can and brainstorm on different topics. 
-- ⚡ Fun fact: I love reading books, play FIFA with my wife, and adventuring out.
+- ⚡ Fun fact: I love reading books, doing street photography, playing FIFA with my wife, and adventuring out.
 
 
 <h3>⚡Github Stats: </h3>
