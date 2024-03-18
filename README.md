@@ -31,7 +31,7 @@
 - 🧐 I'm passionate about new technologies. 😎
 - 🔭 I’m currently looking to collaborate to enhance my skills further. 💻
 - 🥅 2024 Goals: To connect with as many people as I can and brainstorm on different topics. 
-- ⚡ Fun fact: I love reading books, doing street photography, playing FIFA with my wife, and adventuring out.
+- ⚡ What I love?: I love reading books, doing street photography, playing FIFA with my wife, and adventuring out.
 
 
 <h3>⚡Github Stats: </h3>
